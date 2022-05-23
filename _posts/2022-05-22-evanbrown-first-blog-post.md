@@ -3,10 +3,7 @@
 #### For: NCSU ST558
 #### Date: May 23, 2022
 
-What do you think being a data scientist is about?  
-What do you see as the major duties and/or knowledge areas?  
-What differences/similarities do you see between data scientists and statisticians?  
-How do you view yourself in relation to these two areas?
+
 
 ### What is Being a Data Scientist All About?
 
