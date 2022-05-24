@@ -2,11 +2,10 @@
 
 ![image](ecbrown7.github.io\Capture0.JPG)
 
-**My name is Evan Brown and I am a graduate student at NC State studying Data Science for Statisticians.**
+**My name is Evan Brown and I am a graduate student at NC State studying Data Science for Statisticians.**  
 
-#### Contact Me
-[email](ecbrown7@ncsu.edu)
-[Linkedin](https://www.linkedin.com/in/evancbrown/)
+This blog will be for sharing my thoughts on topics related to data science, statistics and how they apply to course activities.
+
 
 ## My Background  
     - Education
@@ -20,4 +19,7 @@ Upon graduating in 2018, I accepted a position on a research project at the US E
 Outside of work, most of my time is spent working out or capturing pictures of wildlife in the mountains of Southwest Virginia (see below). In the past 2 years I have run 3 half marathons and am looking forward to another in the fall. 
 
 
-    
+#### Contact Me  
+Phone: 980-395-2201  
+Email: ecbrown7@ncsu.edu  
+LinkedIn: [Linkedin](https://www.linkedin.com/in/evancbrown/)
