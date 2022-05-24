@@ -1,6 +1,6 @@
 # About me
 
-![image](C:\Desktop\ST558\Capture0.png)
+![image](ecbrown7.github.io/Capture.JPG)
 
 **My name is Evan Brown and I am a graduate student at NC State studying Data Science for Statisticians.**
 
