@@ -4,6 +4,8 @@
 
 **My name is Evan Brown and I am a graduate student at NC State studying Data Science for Statisticians.**
 
+#### Contact Me
+[email](ecbrown7@ncsu.edu)
 [Linkedin](https://www.linkedin.com/in/evancbrown/)
 
 ## My Background  
