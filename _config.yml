@@ -1,7 +1,7 @@
 title: "ST558 Blog"
 author: "Evan Brown"
 description: "A blog about all things related to data science and statistics." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
-output: html_document
+
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
