@@ -37,4 +37,5 @@ Thanks for reading!
 
 #### Contact Me  
 Phone: 980-395-2201  
-LinkedIn: [Linkedin](https://www.linkedin.com/in/evancbrown/)
+Email: ecbrown7@ncsu.edu  
+[Linkedin](https://www.linkedin.com/in/evancbrown/)
