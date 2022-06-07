@@ -50,5 +50,5 @@ to the course, describe your experience when first learning it.)*
 
 ## Example R Markdown Output
 
-Here is a plot of the iris data set, with code shown for obtaining the
-plot. ![](../images/unnamed-chunk-4-1.png)<!-- -->
+Here is a plot of the iris data set.
+![](../images/unnamed-chunk-4-1.png)<!-- -->
