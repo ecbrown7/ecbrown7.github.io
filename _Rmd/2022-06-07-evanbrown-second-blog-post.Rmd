@@ -1,7 +1,5 @@
 ---
 title: "Programming Background"
-author: "Evan Brown"
-date: "6/7/2022"
 ---
 
 ```{r, echo = FALSE, eval = TRUE}
