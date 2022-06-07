@@ -7,7 +7,7 @@ Programming Background
 
 -   My only programming experience prior to ST558 (R) is in ST555 (SAS).
     Initially, I thought R was much more complex and certainly didn’t
-    prefer it. However, I’ve come to see to flexibility and open-ended
+    prefer it. However, I’ve come to see the flexibility and open-ended
     design of R that makes it much less rigid than SAS.
 
 *What functionality do you like about R?*
