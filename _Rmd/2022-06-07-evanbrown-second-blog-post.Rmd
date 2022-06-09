@@ -39,7 +39,7 @@ rmarkdown::render("C:/Users/Ebrown08/OneDrive - Environmental Protection Agency 
 
 ## Example R Markdown Output
 
-Here is a plot of the iris data set, with code shown for obtaining the plot.
+Here is a plot of the iris data set.
 ```{r, eval=TRUE, echo=FALSE}
 plot(iris)
 ```
