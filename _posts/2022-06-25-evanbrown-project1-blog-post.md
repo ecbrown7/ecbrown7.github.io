@@ -4,10 +4,11 @@ Evan Brown
 
 # **Project Links**
 
-Link to regular repo: [Project 1:
-Stocks_Vignette](https://github.com/ecbrown7/stocks_vignette)
+Link to regular repo: [Project 1: Stocks
+Vignette](https://github.com/ecbrown7/stocks_vignette)
 
-Link to github pages repo:
+Link to github pages repo: [Project 1: Stocks Vignette on
+Pages](https://ecbrown7.github.io/stocks_vignette/)
 
 # **Project 1 Wrap-up**
 
@@ -33,7 +34,7 @@ plots, and drew some conclusions about what I found.
 My first created function called ‘marketcap’ returns the marketcap for
 the user input ticker and date. I used this function to pull data on VLO
 marketcap from June 2020, 2021 and 2022 to explore trends over time. I
-plotted that data as shown below. VLO has clearly has an impressive run
+plotted that data as shown below. VLO clearly has had an impressive run
 since 2020, increasing market cap year over year since then.
 
 ![](https://github.com/ecbrown7/stocks_vignette/raw/main/README_files/figure-gfmunnamed-chunk-6-1.png)
@@ -66,9 +67,10 @@ month.
 
 ![](https://github.com/ecbrown7/stocks_vignette/raw/main/README_files/figure-gfmunnamed-chunk-9-1.png)
 ![](https://github.com/ecbrown7/stocks_vignette/raw/main/README_files/figure-gfmunnamed-chunk-9-2.png)
+
 Then, I created a histogram to look at which price ranges VLO spent the
 most time in. The highest count was at 80 dollars, and counts above 100
-were much lower than those less than 100 dollars.
+dollars were much lower than those less than 100 dollars.
 
 ![](https://github.com/ecbrown7/stocks_vignette/raw/main/README_files/figure-gfmunnamed-chunk-10-1.png)
 
@@ -85,22 +87,23 @@ action for a bullish stock.
 
 Finally, I compared price and volume in VLO, GUSH and DRIP. VLO price
 showed that up and down bullish action, and the stock price in June 2022
-is almost 50 dollars higher than in June 2020.
+is almost 50 dollars higher than in June 2020. However, this was assumed
+based on the increasing market cap data.
 
 ![](https://github.com/ecbrown7/stocks_vignette/raw/main/README_files/figure-gfmunnamed-chunk-14-1.png)
-However, this was assumed based on the increasing market cap data. What
-I was most interested in was the relationship between daily price and
-daily volume. I calculated the correlation for VLO, GUSH and DRIP. The
-correlations were as follows:  
+
+What I was most interested in was the relationship between daily price
+and daily volume. I calculated the correlation for VLO, GUSH and DRIP.
+The correlations were as follows:  
 - VLO: 0.10  
 - GUSH: -0.59  
 - DRIP: -0.45
 
-That was very interesting to me. The industry common stock trading
+That was very interesting to me. The industry common stock (VLO) trading
 volume has been relatively non-correlated with stock price. However, the
-industry reflecting ETF trading volume has been strongly correlated with
-ETF price. Just take a look at the plot for DRIP, the relationship is
-hyperbolic.
+industry reflecting ETF (DRIP and GUSH) trading volume has been strongly
+correlated with ETF price. Just take a look at the plot below for DRIP,
+the relationship is hyperbolic.
 
 ![](https://github.com/ecbrown7/stocks_vignette/raw/main/README_files/figure-gfmunnamed-chunk-18-2.png)
 
@@ -119,7 +122,7 @@ buying into DRIP reversing trend and going up in price.
 
 The most difficult part of the project in general for me was creating a
 framework for what I was trying to accomplish. I wanted an outcome to
-shoot for, not just blindly sifting through data. I had a long
+shoot for, not just blindly sifting through data. I had to have a long
 brainstorming session to relate real world concepts to the data I was
 going to be working with. It was rewarding in the long term doing it
 this way, since the final project revealed meaningful data trends and
@@ -129,18 +132,18 @@ The most difficult part of the programming was adding dates to my
 aggregate function. Pulling data from the API didn’t include a dates
 column, but I wanted to look at the data based on months, quarters and
 years to get distinct breakdowns. Since the market isn’t open 24/7, 365,
-I obviously made this tougher on myself than I needed to. I had to
-create a string a dates, then find a way to remove weekends and holiday
-closures. Removing weekend was fairly efficient, but removing holidays
-was hard coded in. I could have typed a string of all holidays for the
-next 10 years to increase the function lifetime, but I’m sure we’ll have
-new holidays by then and I’d need to fix them anyways. Nevertheless, the
-function works for any date range (within 2 years) in 2020 - 2022. In
-the end, it does it’s job for querying the API, returning the data
-you’re looking for, and allowing you to do data analysis. I’ll just have
-to update the holiday exceptions as years go on to ensure dates are
-matching and vector lengths of retrieved data and dates are of equal
-length.
+and we haven’t worked with dates much in this class, I obviously made
+this tougher on myself than I needed to. I had to create a string a
+dates, then find a way to remove weekends and holiday closures. Removing
+weekends was fairly efficient, but removing holidays was hard coded in.
+I could have typed a string of all holidays for the next 10 years to
+increase the function lifetime, but I’m sure we’ll have new holidays by
+then and I’d need to fix them anyways. Nevertheless, the function works
+for any date range (within 2 years) in 2020 - 2022. In the end, it does
+it’s job for querying the API, returning the data you’re looking for,
+and allowing you to do data analysis. I’ll just have to update the
+holiday exceptions as years go on to ensure dates are matching and
+vector lengths of retrieved data and dates are of equal length.
 
 I felt my approach was good overall for this project. However, I
 probably would have spent more time writing things out on paper before
@@ -150,10 +153,9 @@ head against the wall leads me to an understanding of why something
 doesn’t work, which points me to why something else does work - and in
 the end, I gain a much better understanding of the material.
 
-In conclusion, I thought the project was alot fo work, but rewarding for
-me. I was able to touch on almost every single aspect of coding we’ve
-covered thus far in ST558. I am happy with the resulting project and am
-excited to continue learning more about R and data science. Also, I am
-not a financial advisor, so it is not recommended to take my advice on
-whether or not to buy DRIP right now but - “buy low, sell high” sure
-does fit the market right now.
+In conclusion, I thought the project required alot of work, but it was
+rewarding for me. I was able to touch on almost every single aspect of
+coding we’ve covered thus far in ST558. I am happy with the resulting
+project and am excited to continue learning more about R and data
+science. Also a final PSA: I am not a financial advisor, so it is not
+recommended to take my advice on whether or not to buy DRIP right now!
