@@ -1,0 +1,24 @@
+---
+title: "Using APIs: Stocks vignette creation"
+author: "Evan Brown"
+---
+
+```{r, echo = FALSE, eval = TRUE}
+knitr::opts_chunk$set(fig.path = "../images/")
+```
+
+``` {r, echo = FALSE, eval = FALSE}
+rmarkdown::render("/Users/EvanBrown/Desktop/ST558/ecbrown7.github.io/_Rmd/2022-06-25-evanbrown-project1-blog-post.Rmd", 
+                  output_format = "github_document", 
+                  output_dir = "../_posts/",
+                  output_options = list(
+                    html_preview = FALSE
+                    )
+)
+```
+
+
+# **Project 1 Wrap-up**
+
+In this project, I created a vignette. 
+
