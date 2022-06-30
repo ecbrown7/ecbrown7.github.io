@@ -1,7 +1,7 @@
 Blog Post 3 - R Programming Reflection
 ================
 
-# **A reflection on learning to program in R**
+# **A Reflection on Learning to Program in R**
 
 I began this program looking forward to this class, specifically because
 we use R so much at work and I was excited to catch up. While certainly
@@ -22,6 +22,8 @@ controlling some ggplot features just to have fun and make a cooloer
 looking plot for sugars.
 
 ``` r
+library(tidyverse)
+
 #Read in data
 cerealdata <- read.csv("/Users/EvanBrown/Desktop/ST558/cereal.csv")
 
@@ -39,9 +41,7 @@ proteinplot <- ggplot(cerealdata, aes(x=protein, y=rating)) +
 proteinplot
 ```
 
-    ## `geom_smooth()` using formula 'y ~ x'
-
-![](../images/unnamed-chunk-78-1.png)<!-- -->
+![](../images/unnamed-chunk-4-1.png)<!-- -->
 
 That makes sense, more protein correlates to a higher health rating.
 
@@ -62,15 +62,13 @@ sugarplot <- ggplot(cerealdata, aes(x=sugars, y=rating)) +
 sugarplot
 ```
 
-    ## `geom_smooth()` using formula 'y ~ x'
-
-![](../images/unnamed-chunk-79-1.png)<!-- -->
+![](../images/unnamed-chunk-5-1.png)<!-- -->
 
 Well that makes sense too, health rating goes down as sugar goes up!
 
 In summary, my favorite part about R programming thus far is the ability
 to make figure quality, reproducible graphs. On top of that, the control
-we have in ggplot is unmatched compared to point and licks like excel,
+we have in ggplot is unmatched compared to point and clicks like excel,
 graphpad, etc. I have already made good use of these techniques at work
 and look forward to presenting more of these graphs in a paper I’m
 publishing later this summer and at presentations following that.
