@@ -18,7 +18,7 @@ different types of cereals and their nutrition content and health
 rating. I’ll demonstrate making some scatter plots to investigate the
 relationship between certain nutrients and the cereals health rating.
 I’ll plot a nice looking plot for the first protein plot then mess with
-controlling some ggplot features just to have fun and make a cooloer
+controlling some ggplot features just to have fun and make a cooler
 looking plot for sugars.
 
 ``` r
