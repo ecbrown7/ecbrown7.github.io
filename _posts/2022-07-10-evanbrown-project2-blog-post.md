@@ -1,7 +1,7 @@
 Project 2: Automated-modeling
 ================
 
-# \*\*Project Links\*
+# **Project Links**
 
 Link to Project: [Project](https://github.com/ecbrown7/ST558_project2)
 

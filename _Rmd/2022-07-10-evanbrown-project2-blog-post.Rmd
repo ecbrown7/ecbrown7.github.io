@@ -16,7 +16,7 @@ rmarkdown::render("/Users/EvanBrown/Desktop/ST558/ecbrown7.github.io/_Rmd/2022-0
 ```
 
 
-# **Project Links*
+# **Project Links**
 
 Link to Project: [Project](https://github.com/ecbrown7/ST558_project2)  
 
