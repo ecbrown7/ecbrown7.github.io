@@ -47,6 +47,7 @@ It was obviously important that we made plots and models that could
 withstand different inputs and not be tied down to the data of a
 specific channel. For example, as I worked through the box plots for the
 daily news shares…
+
 ![](https://github.com/ecbrown7/ST558_project2/blob/main/README_files/figure-gfmunnamed-chunk-8-1.png)
 
 I started to realize there were some outliers that made the boxplots
@@ -72,6 +73,7 @@ went fairly smoothly for both of us (at least it did for me), but it was
 definately different having to use the pull functionality and not just
 the push. Third, I got to play around with some plots in here and I was
 really happy with how my sentiment polarity plot turned out.
+
 ![](https://github.com/ecbrown7/ST558_project2/blob/main/README_files/figure-gfmunnamed-chunk-9-1.png).
 
 I knew I wanted to make this more than just a black dotted scatter plot
