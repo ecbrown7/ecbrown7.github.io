@@ -3,7 +3,7 @@ Project 2: Automated-modeling
 
 # **Project Links**
 
-Link to Project: [Project](https://ecbrown7.github.io/ST558_project2/)
+Link to Project: [Project](https://ecbrown7.github.io/ST558_project2/](https://github.com/ecbrown7/ST558_project2)
 
 Link to Repository: [Repo](https://github.com/ecbrown7/ST558_project2)
 
@@ -24,7 +24,7 @@ regression models, 1 random forest model, and 2 boosting trees models.
 We made comparison for these models and selected a winning model on the
 criteria of RMSE. Then finally, we wrapped it up by automating the
 report for each news channel in the main data set, creating 6 reports,
-one for each channel.
+one for each channel. Each of those reports is linked above. 
 
 *What would I do differently?*
 
