@@ -3,9 +3,17 @@ Project 2: Automated-modeling
 
 # **Project Links**
 
-Link to Project: [Project](https://github.com/ecbrown7/ST558_project2)
+Link to Project: [Project](https://ecbrown7.github.io/ST558_project2/)
 
-Link to Repo: [Repo](https://github.com/ecbrown7/ST558_project2.git)
+Link to Repository: [Repo](https://github.com/ecbrown7/ST558_project2)
+
+Links to specific news channel reports:  
+[Business](https://github.com/ecbrown7/ST558_project2/blob/main/bus.md)  
+[Entertainment](https://github.com/ecbrown7/ST558_project2/blob/main/entertainment.md)  
+[Lifestyle](https://github.com/ecbrown7/ST558_project2/blob/main/lifestyle.md)  
+[SocMed](https://github.com/ecbrown7/ST558_project2/blob/main/socmed.md)  
+[Technology](https://github.com/ecbrown7/ST558_project2/blob/main/tech.md)  
+[World](https://github.com/ecbrown7/ST558_project2/blob/main/world.md)
 
 # **Project Wrap-up**
 
@@ -24,8 +32,10 @@ It was certainly challenging dealing with such a large amount of
 predictors and sifting through to find ways to model the data. There
 would really be endless models you could fit, we decided on 6 total
 models but even these 6 results in a some different “winning models” for
-each channel. Looking back, trying 30 models would have been just as
-easy once we automated the comparison portion.
+each channel (Three channels were best fit by linear model 2, two
+channels best fit by linear model 3, and one channel was best fit by our
+first boosted tree model). Looking back, trying 30 models would have
+been just as easy once we automated the comparison portion.
 
 *What was the most difficult part for me?*
 
