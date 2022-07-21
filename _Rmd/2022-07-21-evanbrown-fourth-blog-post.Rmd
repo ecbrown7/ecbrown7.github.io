@@ -8,7 +8,7 @@ knitr::opts_chunk$set(fig.path = "../images/")
 ``` {r, echo = FALSE, eval = FALSE}
 rmarkdown::render("C:/Users/Ebrown08/OneDrive - Environmental Protection Agency (EPA)/Profile/Desktop/ST558/St558 Blog Posts/_Rmd/2022-07-21-evanbrown-fourth-blog-post.Rmd", 
                   output_format = "github_document", 
-                  output_dir = "../_posts/",
+                  output_dir = "../_posts",
                   output_options = list(
                     html_preview = FALSE
                     )
