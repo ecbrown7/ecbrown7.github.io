@@ -1,0 +1,23 @@
+---
+title: "Blog Post 5: ST558 Course Reflection"
+---
+```{r, echo = FALSE, eval = TRUE}
+knitr::opts_chunk$set(fig.path = "../images/")
+```
+
+``` {r, echo = FALSE, eval = FALSE}
+rmarkdown::render("/Users/EvanBrown/Desktop/ST558/ecbrown7.github.io/_Rmd/2022-07-24-evanbrown-fifth-blog-post.Rmd", 
+                  output_format = "github_document", 
+                  output_dir = "../_posts/",
+                  output_options = list(
+                    html_preview = FALSE
+                    )
+)
+```
+
+
+# **Final Blog Post**
+
+### Thoughts on R and plans to use in the future?
+
+Testing..
