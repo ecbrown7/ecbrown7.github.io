@@ -28,16 +28,18 @@ example of the boxplots I made (we are looking for one or multiple
 shifts among the Cyp’s - yaxis - for each chemical - 2165 chemicals,
 2165 plots):
 
-![](/Users/EvanBrown/Desktop/ST558/boxplots.png) As you can see, Cyp2A6
-shifts this chemical outside the bounds of our controls (NoRNA and
-Bgal). This screen in particular was neat for me. We started this screen
-the week this class started, which unfortunately coincided with my visit
-to the emergency room (thanks again for the leniency on HW2). Throughout
-that recovery process was a constant struggle to get the data collected
-for this screen while maintaining my effort in this class. To wrap it
-all up by actually using what I had learned in this class to analyze the
-data was really rewarding and something we plan to continue going
-forward. And hopefully without any more ER visits!
+![](/Users/EvanBrown/Desktop/ST558/boxplots.png)
+
+As you can see, Cyp2A6 shifts this chemical outside the bounds of our
+controls (NoRNA and Bgal). This screen in particular was neat for me. We
+started this screen the week this class started, which unfortunately
+coincided with my visit to the emergency room (thanks again for the
+leniency on HW2). Throughout that recovery process was a constant
+struggle to get the data collected for this screen while maintaining my
+effort in this class. To wrap it all up by actually using what I had
+learned in this class to analyze the data was really rewarding and
+something we plan to continue going forward. And hopefully without any
+more ER visits!
 
 ### Areas of statistics/data science to explore further
 
