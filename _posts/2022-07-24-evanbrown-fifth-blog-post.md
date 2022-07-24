@@ -16,30 +16,22 @@ learning R has allowed me to take over internal data analysis and has
 really streamlined our work by giving me the reigns on experiments from
 end to end.
 
-### Things to do differently
+### Things to do differently now that I know R
 
 As I’ve mentioned before, I was very excited to start this class to
 really gain the skills necessary to run experiments end to end in our
 lab. Since about the midterm in this class, I’ve been able to get going
 with R at work and have analyzed data of two chemical screens, one using
 some EPA packages (tcpl) for fitting hill curves and the other using
-ggplot to create boxplots looking for shifts in chemicals. Here is an
-example of the boxplots I made (we are looking for one or multiple
-shifts among the Cyp’s - yaxis - for each chemical - 2165 chemicals,
-2165 plots):
-
-![](/Users/EvanBrown/Desktop/ST558/boxplots.png)
-
-As you can see, Cyp2A6 shifts this chemical outside the bounds of our
-controls (NoRNA and Bgal). This screen in particular was neat for me. We
-started this screen the week this class started, which unfortunately
-coincided with my visit to the emergency room (thanks again for the
-leniency on HW2). Throughout that recovery process was a constant
-struggle to get the data collected for this screen while maintaining my
-effort in this class. To wrap it all up by actually using what I had
-learned in this class to analyze the data was really rewarding and
-something we plan to continue going forward. And hopefully without any
-more ER visits!
+ggplot to create boxplots looking for shifts in chemicals. The boxplot
+screen in particular was neat for me. We started this screen the week
+this class started, which unfortunately coincided with my visit to the
+emergency room (thanks again for the leniency on HW2). Throughout that
+recovery process was a constant struggle to get the data collected for
+this screen while maintaining my effort in this class. To wrap it all up
+by actually using what I had learned in this class to analyze the data
+was really rewarding and something we plan to continue going forward.
+And hopefully without any more ER visits!
 
 ### Areas of statistics/data science to explore further
 
