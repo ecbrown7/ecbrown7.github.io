@@ -56,7 +56,7 @@ learning certain tests and statistical values that are industry
 specific. For example, we use a Z prime (Z’) metric for evaluating an
 assay’s effectiveness. This metric is 1 - (3 x standard deviation from
 the top concentration + 3 x std dev vehicle control)/(signal from top -
-control). This gives a value of 1 at the top end and a results \>0.5 is
+control). This gives a value of 1 at the top end and values \>0.5 are considered
 a good working assay, while an assay \<0 is a bad, non functional assay.
 Areas in the middle are typically a grey area where the assay may be
 able to be improved in some ways to make a working one. As I learning
